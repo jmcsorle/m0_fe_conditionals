@@ -98,15 +98,19 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
+console.log("Does the dog love to play and love treats?", lovesToPlay && lovesTreats);
 
 
 // Determine if the dog loves to play and loves the dog park
+console.log("Does the dog love to play and love the dog park?", lovesToPlay && lovesDogPark);
 
 
 // Determine if the dog loves to play or loves the dog park
+console.log("Does the dog love to play or love the dog park?", lovesToPlay || lovesDogPark);
 
 
 // Determine if the dog loves to play and is a puppy
+console.log("Does the dog love to play, and is the dog a puppy?", lovesToPlay && age < 1);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:
+// ANSWER: The comparison for "Does the dog love to play, and is the dog a puppy?" evaluates to "false" because both values would have to be true when using "&&". If the dog is a puppy, it would be less than a year old, so both values cannot be true.
