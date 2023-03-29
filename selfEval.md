@@ -1,8 +1,8 @@
 # Self Evaluation
 
-1. How confident do you feel in your understanding and fluency with the comparison operators?
-1. How confident do you feel in your understanding and fluency with the logical operators?
-1. How confident do you feel in your understanding and fluency with the if statements?
-1. How much time did you spend on this lesson/topic? How did that line up with your time estimate?
-1. What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-1. What questions do you still have? How will you get the answers you need?
+1. **How confident do you feel in your understanding and fluency with the comparison operators?** I feel sort of confident in understanding the comparison operators, but I need more practice before I will feel fluent.
+1. **How confident do you feel in your understanding and fluency with the logical operators?** I feel like I understand the logical operators pretty well, but am hesitant to say that I am fluent with them without additional practice.
+1. **How confident do you feel in your understanding and fluency with the if statements?** I feel better about my understanding of if and else if and else statements after practing, so I would say I am 50% confident, but about 10% fluent. I will feel better after more practice and when I can do them without having to stop and look at my notes.
+1. **How much time did you spend on this lesson/topic? How did that line up with your time estimate?** I grossly, grossly underestimated the amount of time I needed to spend on this to learn it. I spent about 4 hours, which was 2 hours longer than I had budgeted.
+1. **What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?** I feel like I need more practice with everything in the conditionals exercise. This week, work got in the way. I had tried to budget 2 hours per assignment, but as we get more into coding, I think I need to extend that to 3 hours. I learn best when I can read through everything, take notes, and then practice beyond what is required. On Thursday, before class starts, I am going to type all of my notes into an electronic file and practice each section of the conditionals lesson again.
+1. **What questions do you still have? How will you get the answers you need?** Right now, I think I understand everything in the lesson, but I am going to try the Spicy challenge tomorrow because I can see that that is going to create some questions for me.
